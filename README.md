@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on, honestly? Nothing for now.
 - 📫 How to reach me: look up.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I need the money to live with my girlfriend so... here i am.
+- ⚡ Fun fact: I need the money to live with my girlfriend so... here i am!
 
 <!---
 Ctrlaltcant/Ctrlaltcant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
