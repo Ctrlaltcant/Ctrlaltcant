@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Ctrlaltcant
 - 👀 I’m interested in web developing and gay humor
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on, honestly? Nothing for now.
-- 📫 How to reach me: look up.
+- 🌱 I’m currently learning html, css and JS
+- 💞️ Collaborations are open if you like what i create!
+- 📫 How to reach me: look up at my .
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I need the money to live with my girlfriend so... here i am!
+- (UPDATE: girlfriend is now WIFE <3 So yeah, we need a house and a rent to pay!)
 
 <!---
 Ctrlaltcant/Ctrlaltcant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
